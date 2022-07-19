@@ -1,0 +1,49 @@
+{
+  "students": [
+    {
+      "name": "Anusul Islam",
+      "middleName": null,
+      "age": 31,
+      "cgpa": 3.44,
+      "isRegister": true,
+      "languages": [
+        "Bangali",
+        "English",
+        "Hindi"
+      ],
+      "friends": [
+        {
+          "name": "Anar",
+          "age": 25
+        },
+        {
+          "name": "Ruhul",
+          "age": 28
+        }
+      ]
+    },
+    {
+      "name": "Rabeya Begum",
+      "middleName": null,
+      "age": 30,
+      "cgpa": 3.92,
+      "isRegister": false,
+      "languages": [
+        "Bangali",
+        "English",
+        "Hindi",
+        "Finnish"
+      ],
+      "friends": [
+        {
+          "name": "Shakila",
+          "age": 24
+        },
+        {
+          "name": "Amena",
+          "age": 23
+        }
+      ]
+    }
+  ]
+}
